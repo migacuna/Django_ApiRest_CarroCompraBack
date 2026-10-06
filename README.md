@@ -4,4 +4,4 @@ ApiRest Carro de Compra, desarrollado en Python con Django y Base de datos. Para
 Este se conecta directamente con el Front (Pagina Web, tipo ecommerce, muestra catalogo de productos, almacenados en un base de datos, la cual se accede a traves de la ApiRest).
 
 ## 🏛️ Arquitectura del Sistema
-![Diagrama de Arquitectura](./arquitectura.png)
+![Diagrama de Arquitectura](./docs/arquitectura.png)
